@@ -1,20 +1,3 @@
-# flutterapp
-
-A new Flutter project that has a static list of questions. using speech to text recognition you can record your answer. 
-
-* what's available: 
-  - speech to text plugin works offline. it allows the application to listen to what you're saying while displaying it in text on the same screen.
-
-* what's missing:
-
-  - save the displayed text feature on firebase db /or locally.( work in progress).
-
-  
-
-  This is how the app looks like:
-
-  <img src="C:\Users\emlou\OneDrive\Bureau\flutter-app-speech-to-text\app.gif" style="zoom:50%;" />
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
