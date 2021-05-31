@@ -13,7 +13,7 @@ A new Flutter project that has a static list of questions. using speech to text 
 
   This is how the app looks like:
 
-  <img src="C:\Users\emlou\OneDrive\Bureau\flutter-app-speech-to-text\app.gif" style="zoom:50%;" />
+  <img src="app.gif" style="zoom:50%;" />
 
 ## Getting Started
 
