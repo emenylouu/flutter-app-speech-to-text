@@ -14,7 +14,7 @@ A new Flutter project that has a static list of questions. using speech-to-text 
   
 * NOTE: 
 - The app runs on a real android device only because of some plugin issues probably.
-- Due to the issue with the stt plugin mentioned in the documentation [speech-to-text]{https://pub.dev/packages/speech_to_text}. I will be using that method to record.   
+- Due to the issue with the stt plugin mentioned in the documentation [https://pub.dev/packages/speech_to_text]:speech-to-text . I will be using that method to record.   
 
   #This is how the app looks like so far:
 
