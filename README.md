@@ -1,7 +1,7 @@
 # flutter-app-speech-to-text
 #stt plugin.
 
-A new Flutter project that has a static list of questions. using speech-to-text recognition plugin you can record your answer. 
+A new Flutter project that has a hard-coded static list of questions. using speech-to-text recognition plugin the application displays whatever you say. 
 
 * DONE: 
   - speech to text recognition plugin works offline.
